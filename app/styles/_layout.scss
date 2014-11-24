@@ -1,0 +1,13 @@
+.content {
+  form {
+    display: block;
+    width: 100%;
+    input[type='text'] {
+      width: 80%;
+    }
+    button {
+      width: 18%;
+      margin: 0 10px;
+    }
+  }
+}
